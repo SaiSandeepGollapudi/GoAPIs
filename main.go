@@ -1,7 +1,7 @@
 package main
 
 import (
-	"MyProject/api"
+	"api"
 	"database/sql"
 	"log"
 	"net/http"
